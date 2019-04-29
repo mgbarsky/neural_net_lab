@@ -1,1 +1,3 @@
-# neural_net_lab
+# Neural nets
+
+Demo code for perceptron and multi-layer neural nets.
